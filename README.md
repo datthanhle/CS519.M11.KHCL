@@ -6,7 +6,7 @@ Mã lớp: CS519.M11.KHCL
 Giảng viên
 PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 Thành viên nhóm BHĐ
-STT	Họ tên	MSSV	Email	Github
-1	Lê Thành Đạt	17520332	17520332@gm.uit.edu.vn	datthanhle
-2	Trương Quốc Bình	19521270	19521270@gm.uit.edu.vn	noeffortnomoney
-3	Trần Vĩ Hào	19521482	19521482@gm.uit.edu.vn	hlhkudo
+STT	Họ tên	           MSSV	          Email	                 Github
+1	Lê Thành Đạt	  17520332	17520332@gm.uit.edu.vn	 datthanhle
+2	Trương Quốc Bình  19521270	19521270@gm.uit.edu.vn	 noeffortnomoney
+3	Trần Vĩ Hào	  19521482	19521482@gm.uit.edu.vn	 hlhkudo
