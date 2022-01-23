@@ -1,0 +1,15 @@
+Nhóm BHĐ - Bài tập quá trình
+
+Lý do chọn đề tài - Mục tiêu bài báo NCKH của nhóm
+
+1. Lý do chọn đề tài
+
+Bài toán dịch máy xuất hiện trong mọi lĩnh vực cuộc sống và dễ dàng tiếp cận mọi đối tượng.
+Đã có nhiều mô hình giải quyết bài toán trên nhưng không mô hình nào hoàn hảo cả vì ngôn ngữ có tính tùy biến.
+Với việc chưa hài lòng với các mô hình hiện tại, chúng tôi quyết định cải tiến và tạo ra phiên bản Transformer without tears.
+
+2. Mục tiêu bài báo
+
+Nghiên cứu thuật toán Transformer hiện có và cải tiến phương pháp chuẩn hóa của nó nhằm cải thiện quá trình huấn luyện và tạo ra phiên bản Transformer without Tears.
+Phát triển chương trình ứng dụng minh họa từ phiên bản Transformer without Tears nhưng bước đầu chỉ với hai loại ngôn ngữ chính là tiếng Anh và tiếng Việt.
+Tạo ra bộ dữ liệu song ngữ Anh-Việt mới.
